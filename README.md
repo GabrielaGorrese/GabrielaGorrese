@@ -13,10 +13,7 @@ Oi meu nome é Gabi 👋
 
 ↦ Frases Motivacionais: 
 
-- 🐄 Aceito cursos de programação. 
-- 👯 Não posso colaborar com ninguém , pq quero colaborar comigo.
 - 🤔 Eu não vou ajudar, eu preciso de ajuda.
-- 💬 Me pergunte qualquer coisa que eu pesquiso no Google.
 
 ↦ Redes sociais para contato
 
