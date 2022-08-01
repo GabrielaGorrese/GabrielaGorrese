@@ -1,4 +1,7 @@
-Hi there 👋
+Oi meu nome é Gabi 👋
+
+![ryou-asuka-1987](https://user-images.githubusercontent.com/106177061/182225578-e8ea0eda-23e9-487b-bfb3-c2d9bbae9ecb.gif)
+
 
 
 - 🔭 Estou no Ensino Médio (2 ano)
@@ -11,4 +14,5 @@ Hi there 👋
 - ⚡ Primeiro fato: Todas as minhas refeições giram em torno de uma xícara de café
 - 🥺 Segundo fato: No jogo Stardew Valley eu casei com o Sebanstian (Obs: ele é programador) 
 - 🤡 Terceiro fato: Eu não sei nada por nome. 
+
 -->
