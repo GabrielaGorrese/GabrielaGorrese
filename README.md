@@ -5,7 +5,7 @@ Oi meu nome é Gabi 👋
 
 
 
-  ↪ Minhas Funcionalidades:
+  ↦ Minhas Funcionalidades:
 
 - 🔭 Estou no Ensino Médio (Segundo ano)
 - 😪 Estou cursando informática na Satc (Segunda Fase)
