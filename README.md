@@ -6,6 +6,7 @@ Oi meu nome é Gabi 👋
 
 - 🔭 Estou no Ensino Médio (Segundo ano)
 - 😪 Estou cursando informática na Satc (Segunda Fase)
+- 🙄 Estou aprendendo as linguagens de: Java e Python.
 - 🐄 Aceito cursos de programação. 
 - 👯 Não posso colaborar com ninguém , pq quero colaborar comigo.
 - 🤔 Eu não vou ajudar, eu preciso de ajuda.
