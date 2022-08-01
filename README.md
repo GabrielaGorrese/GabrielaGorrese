@@ -5,25 +5,25 @@ Oi meu nome é Gabi 👋
 
 
 
-  ↦ Minhas Funcionalidades:
+↦ Minhas Funcionalidades:
 
 - 🔭 Estou no Ensino Médio (Segundo ano)
 - 😪 Estou cursando informática na Satc (Segunda Fase)
 - 🙄 Estou aprendendo as linguagens de: Java e Python.
 
-  ↦ Frases Motivacionais: 
+↦ Frases Motivacionais: 
 
 - 🐄 Aceito cursos de programação. 
 - 👯 Não posso colaborar com ninguém , pq quero colaborar comigo.
 - 🤔 Eu não vou ajudar, eu preciso de ajuda.
 - 💬 Me pergunte qualquer coisa que eu pesquiso no Google.
 
-  ↦ Redes sociais para contato
+↦ Redes sociais para contato
 
 - 📫 Instagram: @amordorhys
 - 📫 Discord: Rhysand#9945
 
-  ↦ Sobre mim:
+↦ Sobre mim:
 
 - 😄 Pronomes: Qualquer um
 - ⚡ Primeiro fato: Todas as minhas refeições giram em torno de uma xícara de café
