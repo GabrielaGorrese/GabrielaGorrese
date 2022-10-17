@@ -1,7 +1,7 @@
 Oi meu nome é Gabi 👋
 
 
-![ryou-asuka-1987](https://user-images.githubusercontent.com/106177061/182225578-e8ea0eda-23e9-487b-bfb3-c2d9bbae9ecb.gif)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F207963&psig=AOvVaw3GB7uJKPoNGLD2gj3sFoI6&ust=1666116825086000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKjQv_7u5_oCFQAAAAAdAAAAABAE
 
 
 
