@@ -2,9 +2,9 @@ Oi meu nome é Gabi 👋
 
 ↦ Minhas Funcionalidades:
 
--  Estou no Ensino Médio (Segundo ano)
--  Estou cursando informática na Satc (Segunda Fase)
--  Estou aprendendo as linguagens de: Java e Python.
+-  Estou no Ensino Médio (Terceiro ano)
+-  Estou cursando informática na Satc (Terceira Fase)
+-  Estou aprendendo as linguagens de: Java e Python(e eu não entendo nada).
 
 ↦ Frases Motivacionais: 
 
@@ -17,8 +17,7 @@ Oi meu nome é Gabi 👋
 
 ↦ Sobre mim:
 
--  Pronomes: Qualquer um
 -  Primeiro fato: Todas as minhas refeições giram em torno de uma xícara de café
--  Segundo fato: Sou main yasuo ⚔🍃😈💀
--  Terceiro fato: Gosto de ler, livros
+-  Segundo fato: Sou main Sett ⚔🍃😈💀
+-  Terceiro fato: Gosto de ler, livros de gays, sim gays, já ouviu isso?????????? gays bem viados bem arco iris e gays
 -->
