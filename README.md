@@ -1,5 +1,4 @@
-Olá! 🖐
+Olá! 🙏
 
-🧐 Procurando novas experiências profissionais!
-💬 Criatividade é o meu forte!
+<img src="https://media.tenor.com/YUuuXuLPtqEAAAAi/many-thanks-yoru.gif">
 
