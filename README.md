@@ -12,5 +12,5 @@ Estudante de Engenharia de Computação na UniSatc e Técnica em Informática fo
 - LinkedIn: www.linkedin.com/in/gabriela-de-souza-gorrese-a9693b297
 - E-mail: gorresegabriela@gmail.com
 
-<img src="https://media.tenor.com/YUuuXuLPtqEAAAAi/many-thanks-yoru.gif">
+<img src="https://media.tenor.com/YUuuXuLPtqEAAAAi/many-thanks-yoru.gif " width="150" style="border-radius: 50%;" align="right">
 
